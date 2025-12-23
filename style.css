@@ -1,0 +1,355 @@
+.navbar{
+   background-color: #010225;
+  width: 1940px;
+  height: 82px;
+
+}
+
+*{
+   padding: 0;
+   margin: 0;
+   box-sizing: border-box;
+}
+
+.logo{
+   margin-top: 20px;
+   margin-left: 40px;
+}
+
+.a1{
+   text-decoration: none;
+   color: white;
+margin-left: 900px;
+}
+
+.a1{
+ text-decoration: none;
+   color: rgb(255, 255, 255);
+margin-left: 900px;
+}
+
+.a2{
+   text-decoration: none;
+   color: white;
+  margin-left: 15px;
+}
+
+.a3{
+   text-decoration: none;
+   color: rgb(255, 255, 255);
+   margin-left: 15px;
+}
+
+.a4{
+   text-decoration: none;
+   color: #189CE8;
+   margin-left: 15px;
+}
+
+.btn{
+   position: absolute;
+   width: 164px;
+   height: 48px;
+   border-radius: 50px;
+   border-color: white;
+   background-color: #0b0c2d;
+   color: white;
+   margin-left: 20px;
+  margin-top: 40px;
+}
+
+.startdiv{
+   width: 1940px;
+   height: 720px;
+   background-color:#0b0c2d;
+}
+
+.h1{
+   position: absolute;
+   color: white;
+   margin-top: 100px;
+   margin-left: 100px;
+   white-space-collapse: break-spaces;
+   width: 557px;
+   height: 228px;
+}
+
+.text1{
+   position: absolute;
+   color: white;
+   margin-top: 240px;
+   margin-left: 100px;
+   white-space-collapse: break-spaces;
+}
+
+.instal{
+   margin-top: 290px;
+   margin-left: 100px;
+}
+
+.phone{
+   position: absolute;
+   margin-left: 495px;
+}
+
+.blue3div{
+   width: 1940px;
+   height: 744px;
+   background-color: #0c0d2e;
+}
+
+.h11{
+   color: white;
+   text-align: center;
+}
+
+.p{
+   color: white;
+   text-align: center;
+   white-space-collapse: break-spaces;
+}
+
+.minilogo{
+   margin-left: 300px;
+   margin-top: 100px;
+}
+
+.p1{
+   color: white;
+   margin-left: 240px;
+   margin-top: 10px;
+}
+
+.p2{
+   margin-left: 120px;
+   color: white;
+   margin-top: 10px;
+}
+
+.h3{
+margin-left: 260px;
+color: #159BE8;
+margin-top: 10px;
+}
+
+
+.bluephone{
+   width: 1940px;
+   height: 1247px;
+   background-color: #0c0d2e;
+}
+
+.h13{
+   text-align: center;
+   color: white;
+}
+
+.p3{
+   color: white;
+   text-align: center;
+}
+
+.imgph{
+   margin-top: 50px;
+}
+
+.h31{
+   color: white;
+   margin-left: 600px;
+   margin-top: -630px;
+}
+
+.p4{
+color: white;
+white-space-collapse: break-spaces;
+margin-top: 20px;
+margin-left: 210px;
+}
+.h32{
+   margin-left: 600px;
+   color: white;
+   margin-top: 50px;
+}
+
+.div1{
+   width: 1940px;
+   height:842px ;
+   background-color: #010225;
+}
+
+.doublephone{
+   margin-left: 1200px;
+   margin-top: 10px;
+}
+
+.MOBILE{
+   color: #159BE8;
+   margin-left: 130px;
+   margin-top: -500px;
+}
+
+.manage{
+   margin-left: 130px;
+   color: white;
+   margin-top: 20px;
+}
+.boring{
+margin-left: 130px;
+   color: rgb(128, 124, 124);
+   white-space-collapse: break-spaces;
+   margin-top: 20px;
+}
+
+.minilogo2{
+   margin-top: 50px;
+   margin-left: 130px;
+}
+
+.nadoela{
+   margin-left: 130px;
+   color: white;
+}
+
+.p5{
+   color: rgb(128, 124, 124);
+   margin-left: 130px;
+   margin-top: 10px;
+}
+
+.btn1{
+ width: 164px;
+ height: 48px;
+ border-radius: 50px;
+ background-color: #159BE8;
+ color: white;
+ border-color: #159BE8;
+ margin-left: 120px;
+ margin-top: 10px;
+}
+
+.dot{
+   position: absolute;
+   margin-top: 10px;
+   margin-left: -15px;
+}
+
+.div2{
+   width: 1940px;
+   height: 1086px;
+   background-color: #010225;
+}
+
+.thebest{
+   color: #159BE8;
+   text-align: center;
+}
+
+.backed{
+color: white;
+text-align: center;
+}
+
+.morelogo{
+   margin-top: 50px;
+  
+}
+
+.stars{
+   margin-top: 100px;
+   margin-left: 100px;
+}
+
+.p6{
+   color: white;
+   margin-left: 100px;
+   white-space-collapse: break-spaces;
+}
+
+.man{
+   margin-left: 100px;
+   margin-top: 20px;
+}
+
+.indiv{
+  
+}
+
+.div3{
+   width: 1940px;
+   height: 1669px;
+   background-color: #010225;
+}
+
+.our{
+   text-align: center;
+   color: #159BE8;
+}
+
+.padlo{
+   text-align: center;
+color: white;
+margin-top: 10px;
+}
+   
+.p7{
+   color: rgb(128, 124, 124);
+   text-align: center;
+}
+
+.buy{
+   color: white;
+   text-align: center;
+}
+
+.jjk{
+  color:  rgb(128, 124, 124); 
+  text-align: center;
+  white-space-collapse: break-spaces;
+  margin-top: 30px;
+}
+
+.pp{
+  margin-top: 70px;
+}
+
+.div4{
+   width: 1940px;
+   height: 583px;
+   background-color: #0c0d2e;
+}
+
+.secondlogo{
+   position: absolute;
+   margin-left: 850px;
+   margin-top: 100px;
+}
+
+.fux{
+   color: white;
+   margin-left: 790px;
+   margin-top: 140px;
+   position: absolute;
+}
+
+.mnogologo{
+   margin-top: 210px;
+   margin-left: 745px;
+}
+
+.gmail{
+   color: white;
+   margin-top: 20px;
+   margin-left: 880px;
+}
+
+.email{
+   background-color: #03040c;
+   border-color: #010225;
+   margin-top: 30px;
+   margin-left: 860px;
+}
+
+.nadpis{
+  margin-left: 300px;
+}
+
